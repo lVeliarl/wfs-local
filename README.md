@@ -16,7 +16,7 @@ Can be used as backend for Webix File Manager https://webix.com/filemanager
 
 ```go
 import (
-	"github.com/xbsoftware/wfs-local"
+	"github.com/lVeliarl/wfs-local"
 )
 
 fs, err := wfs.NewLocalDrive("./sandbox", nil)

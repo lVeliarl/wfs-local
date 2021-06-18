@@ -1,2 +1,3 @@
-github.com/xbsoftware/wfs v0.0.0-20200225154622-fe508a916a08 h1:6Y6OuzYvbxDtNb1npEeLxvrZ9A4ziQzq2PdHBN81Fl0=
-github.com/xbsoftware/wfs v0.0.0-20200225154622-fe508a916a08/go.mod h1:nGbh7QPB+WAj/YH73KjjI5fP0z7PdemEy6tBoGs8Pw0=
+github.com/lVeliarl/wfs v0.0.0-20210618204523-8ae87dbc8451 h1:9C8FsnF+DCAvRTpjsH09lRNdnJrCxAzUCBCcSRPPIjY=
+github.com/lVeliarl/wfs v0.0.0-20210618204523-8ae87dbc8451/go.mod h1:qfV++YUdPb0Ch03ideqRf2a96ME0sprqPnvxohZeZhk=
+
